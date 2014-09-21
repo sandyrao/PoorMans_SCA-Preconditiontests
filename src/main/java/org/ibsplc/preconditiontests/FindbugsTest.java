@@ -16,7 +16,7 @@ public class FindbugsTest {
 		String sourcePath = "";
 		String classPathArg = System.getProperty("sourcePath");
 		if(classPathArg==null || "".equals(classPathArg) ){
-			System.out.println("Please specify -Dsourcepath=<Path to classes>");
+			System.out.println("Please specify -DsourcePath=<Path to classes>");
 		}
 		sourcePath = classPathArg;
 		new JUnitFindbugsTestWrapper().execute(sourcePath);

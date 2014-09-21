@@ -11,7 +11,7 @@ To generate jar files, run
 
 To run the tests
 
--add *preconditions.jar* to your build path
+-add *PreconditionChecks-0.x.x.jar* to your build path
 -run Junit testcase PreconditionsCheckTestSuite.java
 
 To run as a Jazz CLM precondition, run the JUnit test from within Eclipse.
