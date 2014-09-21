@@ -15,6 +15,6 @@ To run the tests
 -run Junit testcase PreconditionsCheckTestSuite.java
 
 To run as a Jazz CLM precondition, run the JUnit test from within Eclipse.
-Refer link to setup "Require JUnit run, Precondition"
+Refer link to setup "Require JUnit run, Precondition"<br/>
 [Source control process recipes for Rational Team Concert](https://jazz.net/library/article/1075)
 
