@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="5.6">
-<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\PreconditionTests_21Sep_RenamingPackages\PreconditionTests\src\main\java\org\ibsplc\preconditiontests\CheckstyleTest.java">
+<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\Github\SCA-Preconditiontests\src\main\java\org\ibsplc\preconditiontests\CheckstyleTest.java">
 </file>
-<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\PreconditionTests_21Sep_RenamingPackages\PreconditionTests\src\main\java\org\ibsplc\preconditiontests\FindbugsTest.java">
+<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\Github\SCA-Preconditiontests\src\main\java\org\ibsplc\preconditiontests\FindbugsTest.java">
 <error line="7" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
 </file>
-<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\PreconditionTests_21Sep_RenamingPackages\PreconditionTests\src\main\java\org\ibsplc\preconditiontests\PMDTest.java">
+<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\Github\SCA-Preconditiontests\src\main\java\org\ibsplc\preconditiontests\PMDTest.java">
 </file>
-<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\PreconditionTests_21Sep_RenamingPackages\PreconditionTests\src\main\java\org\ibsplc\preconditiontests\util\JUnitCheckstyleTestWrapper.java">
+<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\Github\SCA-Preconditiontests\src\main\java\org\ibsplc\preconditiontests\util\JUnitCheckstyleTestWrapper.java">
 <error line="20" severity="error" message="Using a static member import should be avoided - org.junit.Assert.assertFalse." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStaticImportCheck"/>
 <error line="148" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
 <error line="148" column="36" severity="error" message="Name &apos;checkstyleParsingHandler&apos; must match pattern &apos;^[A-Z][a-zA-Z0-9_]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
@@ -20,14 +20,14 @@
 <error line="202" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
 <error line="214" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
 </file>
-<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\PreconditionTests_21Sep_RenamingPackages\PreconditionTests\src\main\java\org\ibsplc\preconditiontests\util\JUnitFindbugsTestWrapper.java">
+<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\Github\SCA-Preconditiontests\src\main\java\org\ibsplc\preconditiontests\util\JUnitFindbugsTestWrapper.java">
 <error line="19" severity="error" message="Using a static member import should be avoided - org.junit.Assert.assertNull." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStaticImportCheck"/>
 <error line="42" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
 <error line="65" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
 <error line="82" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
 <error line="88" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
 </file>
-<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\PreconditionTests_21Sep_RenamingPackages\PreconditionTests\src\main\java\org\ibsplc\preconditiontests\util\JUnitPMDTestWrapper.java">
+<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\Github\SCA-Preconditiontests\src\main\java\org\ibsplc\preconditiontests\util\JUnitPMDTestWrapper.java">
 <error line="20" severity="error" message="Using a static member import should be avoided - org.junit.Assert.assertFalse." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStaticImportCheck"/>
 <error line="102" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
 <error line="114" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
@@ -43,7 +43,7 @@
 <error line="206" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
 <error line="227" column="9" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
 </file>
-<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\PreconditionTests_21Sep_RenamingPackages\PreconditionTests\src\main\java\org\ibsplc\preconditiontests\util\PreconditionsCheckTestSuite.java">
+<file name="D:\Dev\Workspaces\Java_WS_Cockatoo\Github\SCA-Preconditiontests\src\main\java\org\ibsplc\preconditiontests\util\PreconditionsCheckTestSuite.java">
 <error line="10" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
 </file>
 </checkstyle>

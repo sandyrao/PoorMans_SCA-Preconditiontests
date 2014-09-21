@@ -1,0 +1,6 @@
+#surefire
+#Sun Sep 21 14:55:37 IST 2014
+user.dir=D\:\\Dev\\Workspaces\\Java_WS_Cockatoo\\Github\\SCA-Preconditiontests
+localRepository=C\:\\Users\\User\\.m2\\repository
+basedir=D\:\\Dev\\Workspaces\\Java_WS_Cockatoo\\Github\\SCA-Preconditiontests
+test=org.ibsplc.preconditiontests.util.PreconditionsCheckTestSuite
