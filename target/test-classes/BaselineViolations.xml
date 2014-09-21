@@ -1,0 +1,653 @@
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.util.FacilitySettingsConstants" sourceFile="FacilitySettingsConstants.java" interface="false" size="17" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.facility.setting.vo" total_bugs="3" total_types="10" total_size="602" priority_2="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.ApplicationFacilityParameterVO" sourceFile="ApplicationFacilityParameterVO.java" interface="false" size="189" bugs="1" priority_2="1"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.FacilityAccessRightVO" sourceFile="FacilityAccessRightVO.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.FacilityParameterSelectionVO" sourceFile="FacilityParameterSelectionVO.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.FacilityParameterVO" sourceFile="FacilityParameterVO.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.FacilityPaxSettingVO" sourceFile="FacilityPaxSettingVO.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.FacilityRestrictedVO" sourceFile="FacilityRestrictedVO.java" interface="false" size="46" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.FacilitySettingSearchVO" sourceFile="FacilitySettingSearchVO.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.FacilitySettingVO" sourceFile="FacilitySettingVO.java" interface="false" size="57" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.ParameterVO" sourceFile="ParameterVO.java" interface="false" size="94" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.vo.PaxDetailsVO" sourceFile="PaxDetailsVO.java" interface="false" size="69" bugs="2" priority_2="2"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.facility.setting.web.controller" total_bugs="0" total_types="1" total_size="192">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.web.controller.FacilitySettingController" sourceFile="FacilitySettingController.java" interface="false" size="192" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.facility.setting.web.model" total_bugs="0" total_types="1" total_size="16">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.setting.web.model.FacilitySettingWidgetModel" sourceFile="FacilitySettingWidgetModel.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.facility.util" total_bugs="0" total_types="1" total_size="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.facility.util.FacilityConstants" sourceFile="FacilityConstants.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.housekeeping.bo" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.bo.HousekeepingBO" sourceFile="HousekeepingBO.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.housekeeping.bo.impl" total_bugs="0" total_types="1" total_size="14">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.bo.impl.HousekeepingBOImpl" sourceFile="HousekeepingBOImpl.java" interface="false" size="14" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.housekeeping.dao" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.dao.HousekeepingDao" sourceFile="HousekeepingDao.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.housekeeping.dao.impl" total_bugs="0" total_types="1" total_size="16">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.dao.impl.HousekeepingDaoImpl" sourceFile="HousekeepingDaoImpl.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.housekeeping.dao.mapper" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.dao.mapper.HousekeepingMapper" sourceFile="HousekeepingMapper.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.housekeeping.service" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.service.HousekeepingService" sourceFile="HousekeepingService.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.housekeeping.vo" total_bugs="2" total_types="2" total_size="73" priority_2="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.vo.HousekeepingSearchVO" sourceFile="HousekeepingSearchVO.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.vo.HousekeepingVO" sourceFile="HousekeepingVO.java" interface="false" size="40" bugs="2" priority_2="2"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.housekeeping.web.controller" total_bugs="1" total_types="1" total_size="31" priority_2="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.web.controller.HousekeepingController" sourceFile="HousekeepingController.java" interface="false" size="31" bugs="1" priority_2="1"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.housekeeping.web.model" total_bugs="0" total_types="1" total_size="21">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.housekeeping.web.model.HousekeepingWidgetModel" sourceFile="HousekeepingWidgetModel.java" interface="false" size="21" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.bo" total_bugs="0" total_types="1" total_size="12">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.bo.BuildingBO" sourceFile="BuildingBO.java" interface="true" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.bo.impl" total_bugs="0" total_types="1" total_size="52">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.bo.impl.BuildingBOImpl" sourceFile="BuildingBOImpl.java" interface="false" size="52" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.dao" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.dao.BuildingDao" sourceFile="BuildingDao.java" interface="true" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.dao.entity" total_bugs="32" total_types="5" total_size="301" priority_2="32">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.dao.entity.Building" sourceFile="Building.java" interface="false" size="89" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.dao.entity.BuildingActive" sourceFile="BuildingActive.java" interface="false" size="53" bugs="8" priority_2="8"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.dao.entity.BuildingNonOper" sourceFile="BuildingNonOper.java" interface="false" size="53" bugs="8" priority_2="8"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.dao.entity.BuildingOwner" sourceFile="BuildingOwner.java" interface="false" size="47" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.dao.entity.BuildingPermission" sourceFile="BuildingPermission.java" interface="false" size="59" bugs="8" priority_2="8"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.dao.impl" total_bugs="6" total_types="1" total_size="171" priority_2="6">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.dao.impl.BuildingDaoImpl" sourceFile="BuildingDaoImpl.java" interface="false" size="171" bugs="6" priority_2="6"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.dao.mapper" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.dao.mapper.BuildingMapper" sourceFile="BuildingMapper.java" interface="true" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.service" total_bugs="0" total_types="1" total_size="7">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.service.BuildingService" sourceFile="BuildingService.java" interface="true" size="7" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.vo" total_bugs="0" total_types="2" total_size="177">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.vo.BuildingDetailsVO" sourceFile="BuildingDetailsVO.java" interface="false" size="65" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.vo.BuildingVO" sourceFile="BuildingVO.java" interface="false" size="112" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.web.controller" total_bugs="0" total_types="2" total_size="99">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.web.controller.BuildingController" sourceFile="BuildingController.java" interface="false" size="81" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.web.controller.BuildingController$MODE" sourceFile="BuildingController.java" interface="false" size="18" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.building.web.model" total_bugs="0" total_types="1" total_size="16">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.building.web.model.BuildingWidgetModel" sourceFile="BuildingWidgetModel.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.bo" total_bugs="0" total_types="2" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.bo.FMCommonBO" sourceFile="FMCommonBO.java" interface="true" size="8" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.bo.LookupDataBO" sourceFile="LookupDataBO.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.bo.impl" total_bugs="0" total_types="2" total_size="37">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.bo.impl.FMCommonBOImpl" sourceFile="FMCommonBOImpl.java" interface="false" size="26" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.bo.impl.LookupDataBOImpl" sourceFile="LookupDataBOImpl.java" interface="false" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.dao" total_bugs="0" total_types="2" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.dao.FMCommonDao" sourceFile="FMCommonDao.java" interface="true" size="8" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.dao.LookupDataDao" sourceFile="LookupDataDao.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.dao.handler" total_bugs="0" total_types="1" total_size="15">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.dao.handler.DynamicDataHandler" sourceFile="DynamicDataHandler.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.dao.impl" total_bugs="6" total_types="2" total_size="227" priority_2="6">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.dao.impl.FMCommonDaoImpl" sourceFile="FMCommonDaoImpl.java" interface="false" size="215" bugs="6" priority_2="6"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.dao.impl.LookupDataDaoImpl" sourceFile="LookupDataDaoImpl.java" interface="false" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.dao.mapper" total_bugs="0" total_types="2" total_size="23">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.dao.mapper.FMCommonMapper" sourceFile="FMCommonMapper.java" interface="true" size="21" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.dao.mapper.LookupDataMapper" sourceFile="LookupDataMapper.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.service" total_bugs="0" total_types="2" total_size="9">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.service.FMCommonService" sourceFile="FMCommonService.java" interface="true" size="7" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.service.LookupDataService" sourceFile="LookupDataService.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.vo" total_bugs="14" total_types="16" total_size="637" priority_2="14">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.CampMasterFieldVO" sourceFile="CampMasterFieldVO.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.CampMasterSearchVO" sourceFile="CampMasterSearchVO.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.EntitySearchVO" sourceFile="EntitySearchVO.java" interface="false" size="87" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.FMDataListVO" sourceFile="FMDataListVO.java" interface="false" size="15" bugs="2" priority_2="2"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.FMDataSearchVO" sourceFile="FMDataSearchVO.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.GridColDataVO" sourceFile="GridColDataVO.java" interface="false" size="27" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.GridColModelVO" sourceFile="GridColModelVO.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.GridMainVO" sourceFile="GridMainVO.java" interface="false" size="27" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.GridRootVarVO" sourceFile="GridRootVarVO.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.LookupVO" sourceFile="LookupVO.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.MasterDataListVO" sourceFile="MasterDataListVO.java" interface="false" size="33" bugs="8" priority_2="8"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.MasterDataSearchVO" sourceFile="MasterDataSearchVO.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.OptionVO" sourceFile="OptionVO.java" interface="false" size="40" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.SavedSearchVO" sourceFile="SavedSearchVO.java" interface="false" size="76" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.SearchFieldVO" sourceFile="SearchFieldVO.java" interface="false" size="103" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.vo.SelectVO" sourceFile="SelectVO.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.web.controller" total_bugs="2" total_types="2" total_size="318" priority_2="1" priority_1="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.web.controller.CampMasterController" sourceFile="CampMasterController.java" interface="false" size="285" bugs="1" priority_2="1"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.web.controller.FacilityMasterController" sourceFile="FacilityMasterController.java" interface="false" size="33" bugs="1" priority_1="1"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.common.web.model" total_bugs="0" total_types="3" total_size="65">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.web.model.CampMasterSearchWidgetModel" sourceFile="CampMasterSearchWidgetModel.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.web.model.EntitySearchWidgetModel" sourceFile="EntitySearchWidgetModel.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.common.web.model.FacilityMasterWidgetModel" sourceFile="FacilityMasterWidgetModel.java" interface="false" size="34" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.bo" total_bugs="0" total_types="1" total_size="13">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.bo.ReportingStationBO" sourceFile="ReportingStationBO.java" interface="true" size="13" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.bo.impl" total_bugs="0" total_types="1" total_size="42">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.bo.impl.ReportingStationBOImpl" sourceFile="ReportingStationBOImpl.java" interface="false" size="42" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao" total_bugs="0" total_types="1" total_size="12">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao.ReportingStationDao" sourceFile="ReportingStationDao.java" interface="true" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao.entity" total_bugs="25" total_types="3" total_size="234" priority_2="25">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao.entity.ReportingStation" sourceFile="ReportingStation.java" interface="false" size="130" bugs="9" priority_2="9"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao.entity.ReportingStationActive" sourceFile="ReportingStationActive.java" interface="false" size="55" bugs="8" priority_2="8"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao.entity.ReportingStationNonOper" sourceFile="ReportingStationNonOper.java" interface="false" size="49" bugs="8" priority_2="8"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao.impl" total_bugs="1" total_types="1" total_size="87" priority_2="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao.impl.ReportingStationDaoImpl" sourceFile="ReportingStationDaoImpl.java" interface="false" size="87" bugs="1" priority_2="1"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao.mapper" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.dao.mapper.ReportingStationMapper" sourceFile="ReportingStationMapper.java" interface="true" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.service" total_bugs="0" total_types="1" total_size="8">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.service.ReportingStationService" sourceFile="ReportingStationService.java" interface="true" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.vo" total_bugs="0" total_types="2" total_size="177">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.vo.ReportingStationDetailsVO" sourceFile="ReportingStationDetailsVO.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.vo.ReportingStationVO" sourceFile="ReportingStationVO.java" interface="false" size="149" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.web.controller" total_bugs="0" total_types="2" total_size="72">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.web.controller.ReportingStationController" sourceFile="ReportingStationController.java" interface="false" size="54" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.web.controller.ReportingStationController$MODE" sourceFile="ReportingStationController.java" interface="false" size="18" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.reportingstation.web.model" total_bugs="0" total_types="1" total_size="16">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.reportingstation.web.model.ReportingStationWidgetModel" sourceFile="ReportingStationWidgetModel.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.bo" total_bugs="0" total_types="1" total_size="24">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.bo.RoomBO" sourceFile="RoomBO.java" interface="true" size="24" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.bo.impl" total_bugs="2" total_types="1" total_size="140" priority_2="1" priority_1="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.bo.impl.RoomBOImpl" sourceFile="RoomBOImpl.java" interface="false" size="140" bugs="2" priority_2="1" priority_1="1"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.dao" total_bugs="0" total_types="1" total_size="24">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.dao.RoomDao" sourceFile="RoomDao.java" interface="true" size="24" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.dao.entity" total_bugs="23" total_types="3" total_size="352" priority_2="23">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.dao.entity.Bed" sourceFile="Bed.java" interface="false" size="95" bugs="6" priority_2="6"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.dao.entity.BedNonOper" sourceFile="BedNonOper.java" interface="false" size="47" bugs="8" priority_2="8"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.dao.entity.Room" sourceFile="Room.java" interface="false" size="210" bugs="9" priority_2="9"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.dao.impl" total_bugs="2" total_types="1" total_size="227" priority_2="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.dao.impl.RoomDaoImpl" sourceFile="RoomDaoImpl.java" interface="false" size="227" bugs="2" priority_2="2"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.dao.mapper" total_bugs="0" total_types="1" total_size="24">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.dao.mapper.RoomMapper" sourceFile="RoomMapper.java" interface="true" size="24" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.service" total_bugs="0" total_types="1" total_size="12">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.service.RoomService" sourceFile="RoomService.java" interface="true" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.vo" total_bugs="0" total_types="4" total_size="235">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.vo.BedDetailVO" sourceFile="BedDetailVO.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.vo.BedVO" sourceFile="BedVO.java" interface="false" size="51" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.vo.RoomDetailsVO" sourceFile="RoomDetailsVO.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.vo.RoomVO" sourceFile="RoomVO.java" interface="false" size="93" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.web.controller" total_bugs="2" total_types="2" total_size="143" priority_2="1" priority_1="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.web.controller.RoomController" sourceFile="RoomController.java" interface="false" size="124" bugs="2" priority_2="1" priority_1="1"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.web.controller.RoomController$MODE" sourceFile="RoomController.java" interface="false" size="19" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.room.web.model" total_bugs="0" total_types="1" total_size="16">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.room.web.model.RoomWidgetModel" sourceFile="RoomWidgetModel.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.bo" total_bugs="0" total_types="1" total_size="11">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.bo.RoomClassBO" sourceFile="RoomClassBO.java" interface="true" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.bo.impl" total_bugs="0" total_types="1" total_size="38">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.bo.impl.RoomClassBOImpl" sourceFile="RoomClassBOImpl.java" interface="false" size="38" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.dao" total_bugs="0" total_types="1" total_size="11">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.dao.RoomClassDao" sourceFile="RoomClassDao.java" interface="true" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.dao.entity" total_bugs="0" total_types="1" total_size="42">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.dao.entity.RoomClass" sourceFile="RoomClass.java" interface="false" size="42" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.dao.impl" total_bugs="1" total_types="1" total_size="47" priority_2="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.dao.impl.RoomClassDaoImpl" sourceFile="RoomClassDaoImpl.java" interface="false" size="47" bugs="1" priority_2="1"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.dao.mapper" total_bugs="0" total_types="1" total_size="6">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.dao.mapper.RoomClassMapper" sourceFile="RoomClassMapper.java" interface="true" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.service" total_bugs="0" total_types="1" total_size="9">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.service.RoomClassService" sourceFile="RoomClassService.java" interface="true" size="9" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.vo" total_bugs="0" total_types="1" total_size="40">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.vo.RoomClassVO" sourceFile="RoomClassVO.java" interface="false" size="40" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.web.controller" total_bugs="1" total_types="1" total_size="56" priority_1="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.web.controller.RoomClassController" sourceFile="RoomClassController.java" interface="false" size="56" bugs="1" priority_1="1"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.roomclass.web.model" total_bugs="0" total_types="1" total_size="16">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.roomclass.web.model.RoomClassWidgetModel" sourceFile="RoomClassWidgetModel.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.bo" total_bugs="0" total_types="1" total_size="11">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.bo.ShiftBO" sourceFile="ShiftBO.java" interface="true" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.bo.impl" total_bugs="0" total_types="1" total_size="45">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.bo.impl.ShiftBOImpl" sourceFile="ShiftBOImpl.java" interface="false" size="45" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.dao" total_bugs="0" total_types="1" total_size="11">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.dao.ShiftDao" sourceFile="ShiftDao.java" interface="true" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.dao.entity" total_bugs="8" total_types="1" total_size="106" priority_2="8">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.dao.entity.Shift" sourceFile="Shift.java" interface="false" size="106" bugs="8" priority_2="8"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.dao.impl" total_bugs="0" total_types="1" total_size="54">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.dao.impl.ShiftDaoImpl" sourceFile="ShiftDaoImpl.java" interface="false" size="54" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.dao.mapper" total_bugs="0" total_types="1" total_size="7">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.dao.mapper.ShiftMapper" sourceFile="ShiftMapper.java" interface="true" size="7" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.service" total_bugs="0" total_types="1" total_size="8">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.service.ShiftService" sourceFile="ShiftService.java" interface="true" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.vo" total_bugs="0" total_types="1" total_size="69">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.vo.ShiftVO" sourceFile="ShiftVO.java" interface="false" size="69" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.web.controller" total_bugs="0" total_types="2" total_size="75">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.web.controller.ShiftController" sourceFile="ShiftController.java" interface="false" size="56" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.web.controller.ShiftController$MODE" sourceFile="ShiftController.java" interface="false" size="19" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.shift.web.model" total_bugs="0" total_types="1" total_size="16">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.shift.web.model.ShiftWidgetModel" sourceFile="ShiftWidgetModel.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.bo" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.bo.TeamBO" sourceFile="TeamBO.java" interface="true" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.bo.impl" total_bugs="1" total_types="1" total_size="46" priority_2="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.bo.impl.TeamBOImpl" sourceFile="TeamBOImpl.java" interface="false" size="46" bugs="1" priority_2="1"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.dao" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.dao.TeamDao" sourceFile="TeamDao.java" interface="true" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.dao.entity" total_bugs="8" total_types="1" total_size="76" priority_2="8">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.dao.entity.Team" sourceFile="Team.java" interface="false" size="76" bugs="8" priority_2="8"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.dao.impl" total_bugs="0" total_types="1" total_size="47">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.dao.impl.TeamDaoImpl" sourceFile="TeamDaoImpl.java" interface="false" size="47" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.dao.mapper" total_bugs="0" total_types="1" total_size="7">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.dao.mapper.TeamMapper" sourceFile="TeamMapper.java" interface="true" size="7" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.service" total_bugs="0" total_types="1" total_size="7">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.service.TeamService" sourceFile="TeamService.java" interface="true" size="7" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.vo" total_bugs="0" total_types="1" total_size="76">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.vo.TeamVO" sourceFile="TeamVO.java" interface="false" size="76" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.web.controller" total_bugs="0" total_types="2" total_size="85">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.web.controller.TeamController" sourceFile="TeamController.java" interface="false" size="66" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.web.controller.TeamController$MODE" sourceFile="TeamController.java" interface="false" size="19" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.fm.master.team.web.model" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.fm.master.team.web.model.TeamWidgetModel" sourceFile="TeamWidgetModel.java" interface="false" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.framework" total_bugs="0" total_types="1" total_size="22">
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.ValidationMethodInterceptor" sourceFile="ValidationMethodInterceptor.java" interface="false" size="22" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.framework.dao" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.dao.QueryResultExtractor" sourceFile="QueryResultExtractor.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.framework.mail" total_bugs="3" total_types="3" total_size="183" priority_2="2" priority_1="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.mail.MailConfig" sourceFile="MailConfig.java" interface="false" size="88" bugs="2" priority_2="2"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.mail.MailPreparator" sourceFile="MailPreparator.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.mail.Mailer" sourceFile="Mailer.java" interface="false" size="71" bugs="1" priority_1="1"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.framework.mail.vo" total_bugs="19" total_types="1" total_size="204" priority_2="17" priority_1="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.mail.vo.MailVO" sourceFile="MailVO.java" interface="false" size="204" bugs="19" priority_2="17" priority_1="2"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.framework.security" total_bugs="0" total_types="3" total_size="97">
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.security.AjaxSessionTimeoutFilter" sourceFile="AjaxSessionTimeoutFilter.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.security.SecurityFilter" sourceFile="SecurityFilter.java" interface="false" size="64" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.security.UserInfoProviderImpl" sourceFile="UserInfoProviderImpl.java" interface="false" size="17" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.framework.validation.groups" total_bugs="0" total_types="1" total_size="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.validation.groups.SproutDefaultGroup" sourceFile="SproutDefaultGroup.java" interface="true" size="1" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.framework.vo" total_bugs="0" total_types="2" total_size="37">
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.vo.BaseVO" sourceFile="BaseVO.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.framework.vo.VOImplBase" sourceFile="VOImplBase.java" interface="false" size="18" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.login.web.controller" total_bugs="0" total_types="1" total_size="16">
+      <ClassStats class="com.ibsplc.ilogisticsneo.login.web.controller.MainPageController" sourceFile="MainPageController.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.audit.bo" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.audit.bo.AuditBO" sourceFile="AuditBO.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.audit.bo.impl" total_bugs="0" total_types="1" total_size="25">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.audit.bo.impl.AuditBOImpl" sourceFile="AuditBOImpl.java" interface="false" size="25" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.audit.dao" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.audit.dao.AuditDao" sourceFile="AuditDao.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.audit.dao.entity" total_bugs="0" total_types="1" total_size="23">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.audit.dao.entity.AuditData" sourceFile="AuditData.java" interface="false" size="23" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.audit.dao.impl" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.audit.dao.impl.AuditDaoImpl" sourceFile="AuditDaoImpl.java" interface="false" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.audit.service" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.audit.service.AuditService" sourceFile="AuditService.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.audit.vo" total_bugs="0" total_types="1" total_size="52">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.audit.vo.AuditVO" sourceFile="AuditVO.java" interface="false" size="52" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.bo" total_bugs="0" total_types="2" total_size="8">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.bo.LookupDataBO" sourceFile="LookupDataBO.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.bo.MasterDataBO" sourceFile="MasterDataBO.java" interface="true" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.bo.impl" total_bugs="0" total_types="2" total_size="24">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.bo.impl.LookupDataBOImpl" sourceFile="LookupDataBOImpl.java" interface="false" size="5" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.bo.impl.MasterDataBOImpl" sourceFile="MasterDataBOImpl.java" interface="false" size="19" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.dao" total_bugs="0" total_types="2" total_size="8">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.dao.LookupDataDao" sourceFile="LookupDataDao.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.dao.MasterDataDao" sourceFile="MasterDataDao.java" interface="true" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.dao.handler" total_bugs="0" total_types="2" total_size="45">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.dao.handler.BooleanTypeHandler" sourceFile="BooleanTypeHandler.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.dao.handler.NullTypeHandler" sourceFile="NullTypeHandler.java" interface="false" size="22" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.dao.impl" total_bugs="0" total_types="2" total_size="20">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.dao.impl.LookupDataDaoImpl" sourceFile="LookupDataDaoImpl.java" interface="false" size="5" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.dao.impl.MasterDataDaoImpl" sourceFile="MasterDataDaoImpl.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.dao.mapper" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.dao.mapper.MasterDataMapper" sourceFile="MasterDataMapper.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.service" total_bugs="0" total_types="2" total_size="8">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.service.LookupDataService" sourceFile="LookupDataService.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.service.MasterDataService" sourceFile="MasterDataService.java" interface="true" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.vo" total_bugs="4" total_types="8" total_size="501" priority_2="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.vo.AddressVO" sourceFile="AddressVO.java" interface="false" size="136" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.vo.CodeHistoryVO" sourceFile="CodeHistoryVO.java" interface="false" size="52" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.vo.CoordinateVO" sourceFile="CoordinateVO.java" interface="false" size="55" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.vo.CostObjectVO" sourceFile="CostObjectVO.java" interface="false" size="49" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.vo.DateRangeVO" sourceFile="DateRangeVO.java" interface="false" size="21" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.vo.ItemVO" sourceFile="ItemVO.java" interface="false" size="78" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.vo.LookupVO" sourceFile="LookupVO.java" interface="false" size="46" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.vo.ReasonVO" sourceFile="ReasonVO.java" interface="false" size="64" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.web.util" total_bugs="0" total_types="2" total_size="90">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.web.util.ApplicationConstants" sourceFile="ApplicationConstants.java" interface="false" size="43" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.web.util.ApplicationUtil" sourceFile="ApplicationUtil.java" interface="false" size="47" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.common.web.vo" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.common.web.vo.PageVO" sourceFile="PageVO.java" interface="false" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.company.bo" total_bugs="0" total_types="1" total_size="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.company.bo.CompanyBO" sourceFile="CompanyBO.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.company.bo.impl" total_bugs="0" total_types="1" total_size="18">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.company.bo.impl.CompanyBOImpl" sourceFile="CompanyBOImpl.java" interface="false" size="18" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.company.dao" total_bugs="0" total_types="1" total_size="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.company.dao.CompanyDao" sourceFile="CompanyDao.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.company.dao.impl" total_bugs="0" total_types="1" total_size="18">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.company.dao.impl.CompanyDaoImpl" sourceFile="CompanyDaoImpl.java" interface="false" size="18" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.company.dao.mapper" total_bugs="0" total_types="1" total_size="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.company.dao.mapper.CompanyMapper" sourceFile="CompanyMapper.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.company.service" total_bugs="0" total_types="1" total_size="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.company.service.CompanyService" sourceFile="CompanyService.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.company.vo" total_bugs="0" total_types="2" total_size="97">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.company.vo.CompanyListVO" sourceFile="CompanyListVO.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.company.vo.CompanySearchVO" sourceFile="CompanySearchVO.java" interface="false" size="27" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.flight.bo" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.flight.bo.FlightBO" sourceFile="FlightBO.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.flight.bo.impl" total_bugs="0" total_types="1" total_size="15">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.flight.bo.impl.FlightBOImpl" sourceFile="FlightBOImpl.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.flight.dao" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.flight.dao.FlightDao" sourceFile="FlightDao.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.flight.dao.impl" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.flight.dao.impl.FlightDaoImpl" sourceFile="FlightDaoImpl.java" interface="false" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.flight.dao.mapper" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.flight.dao.mapper.FlightMapper" sourceFile="FlightMapper.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.flight.service" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.flight.service.FlightService" sourceFile="FlightService.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.flight.vo" total_bugs="4" total_types="2" total_size="139" priority_2="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.flight.vo.FlightListVO" sourceFile="FlightListVO.java" interface="false" size="112" bugs="2" priority_2="2"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.flight.vo.FlightSearchVO" sourceFile="FlightSearchVO.java" interface="false" size="27" bugs="2" priority_2="2"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.location.bo" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.location.bo.LocationBO" sourceFile="LocationBO.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.location.bo.impl" total_bugs="0" total_types="1" total_size="15">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.location.bo.impl.LocationBOImpl" sourceFile="LocationBOImpl.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.location.dao" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.location.dao.LocationDao" sourceFile="LocationDao.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.location.dao.impl" total_bugs="0" total_types="1" total_size="12">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.location.dao.impl.LocationDaoImpl" sourceFile="LocationDaoImpl.java" interface="false" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.location.dao.mapper" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.location.dao.mapper.LocationMapper" sourceFile="LocationMapper.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.location.service" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.location.service.LocationService" sourceFile="LocationService.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.location.vo" total_bugs="0" total_types="2" total_size="136">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.location.vo.LocationListVO" sourceFile="LocationListVO.java" interface="false" size="84" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.location.vo.LocationSearchVO" sourceFile="LocationSearchVO.java" interface="false" size="52" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.mail.bo" total_bugs="0" total_types="1" total_size="12">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.bo.MailBO" sourceFile="MailBO.java" interface="true" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.mail.bo.impl" total_bugs="0" total_types="1" total_size="54">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.bo.impl.MailBOImpl" sourceFile="MailBOImpl.java" interface="false" size="54" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.mail.dao" total_bugs="0" total_types="1" total_size="8">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.dao.MailDao" sourceFile="MailDao.java" interface="true" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.mail.dao.entity" total_bugs="8" total_types="1" total_size="101" priority_2="8">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.dao.entity.Mail" sourceFile="Mail.java" interface="false" size="101" bugs="8" priority_2="8"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.mail.dao.impl" total_bugs="1" total_types="1" total_size="88" priority_2="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.dao.impl.MailDaoImpl" sourceFile="MailDaoImpl.java" interface="false" size="88" bugs="1" priority_2="1"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.mail.dao.mapper" total_bugs="0" total_types="1" total_size="5">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.dao.mapper.MailMapper" sourceFile="MailMapper.java" interface="true" size="5" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.mail.service" total_bugs="0" total_types="1" total_size="12">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.service.MailService" sourceFile="MailService.java" interface="true" size="12" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.mail.util" total_bugs="0" total_types="3" total_size="63">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.util.MailConstant" sourceFile="MailConstant.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.util.MailTemplateUtil" sourceFile="MailTemplateUtil.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.util.MailUtil" sourceFile="MailUtil.java" interface="false" size="34" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.mail.vo" total_bugs="10" total_types="2" total_size="151" priority_2="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.vo.MailSearchVO" sourceFile="MailSearchVO.java" interface="false" size="51" bugs="10" priority_2="10"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.mail.vo.MailTypeVO" sourceFile="MailTypeVO.java" interface="false" size="100" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.region.bo" total_bugs="0" total_types="1" total_size="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.region.bo.RegionBO" sourceFile="RegionBO.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.region.bo.impl" total_bugs="0" total_types="1" total_size="16">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.region.bo.impl.RegionBOImpl" sourceFile="RegionBOImpl.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.region.dao" total_bugs="0" total_types="1" total_size="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.region.dao.RegionDao" sourceFile="RegionDao.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.region.dao.impl" total_bugs="0" total_types="1" total_size="11">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.region.dao.impl.RegionDaoImpl" sourceFile="RegionDaoImpl.java" interface="false" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.region.dao.mapper" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.region.dao.mapper.RegionMapper" sourceFile="RegionMapper.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.region.service" total_bugs="0" total_types="1" total_size="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.region.service.RegionService" sourceFile="RegionService.java" interface="true" size="4" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.bo" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.bo.UserBO" sourceFile="UserBO.java" interface="true" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.bo.impl" total_bugs="0" total_types="1" total_size="36">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.bo.impl.UserBOImpl" sourceFile="UserBOImpl.java" interface="false" size="36" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.dao" total_bugs="0" total_types="1" total_size="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.dao.UserDao" sourceFile="UserDao.java" interface="true" size="10" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.dao.entity" total_bugs="10" total_types="3" total_size="554" priority_2="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.dao.entity.User" sourceFile="User.java" interface="false" size="483" bugs="6" priority_2="6"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.dao.entity.UserEntitlement" sourceFile="UserEntitlement.java" interface="false" size="41" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.dao.entity.UserEntitlementPK" sourceFile="UserEntitlementPK.java" interface="false" size="30" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.dao.impl" total_bugs="3" total_types="1" total_size="179" priority_2="1" priority_1="2">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.dao.impl.UserDaoImpl" sourceFile="UserDaoImpl.java" interface="false" size="179" bugs="3" priority_2="1" priority_1="2"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.dao.impl.util" total_bugs="0" total_types="1" total_size="45">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.dao.impl.util.SessionRSExtractor" sourceFile="SessionRSExtractor.java" interface="false" size="45" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.dao.mapper" total_bugs="0" total_types="1" total_size="27">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.dao.mapper.UserMapper" sourceFile="UserMapper.java" interface="true" size="27" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.service" total_bugs="0" total_types="1" total_size="11">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.service.UserService" sourceFile="UserService.java" interface="true" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.vo" total_bugs="4" total_types="5" total_size="883" priority_2="4">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.vo.UserDetailsVO" sourceFile="UserDetailsVO.java" interface="false" size="364" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.vo.UserListVO" sourceFile="UserListVO.java" interface="false" size="76" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.vo.UserSearchVO" sourceFile="UserSearchVO.java" interface="false" size="178" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.vo.UserTravelDocumentVO" sourceFile="UserTravelDocumentVO.java" interface="false" size="27" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.vo.UserVO" sourceFile="UserVO.java" interface="false" size="238" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.master.user.web.controller" total_bugs="0" total_types="1" total_size="40">
+      <ClassStats class="com.ibsplc.ilogisticsneo.master.user.web.controller.UserController" sourceFile="UserController.java" interface="false" size="40" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.fm.bo" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.bo.AccommodationReportBO" sourceFile="AccommodationReportBO.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.fm.bo.impl" total_bugs="0" total_types="1" total_size="20">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.bo.impl.AccommodationReportBOImpl" sourceFile="AccommodationReportBOImpl.java" interface="false" size="20" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.fm.dao" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.dao.AccommodationReportDao" sourceFile="AccommodationReportDao.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.fm.dao.impl" total_bugs="0" total_types="1" total_size="72">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.dao.impl.AccommodationReportDaoImpl" sourceFile="AccommodationReportDaoImpl.java" interface="false" size="72" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.fm.dao.mapper" total_bugs="0" total_types="1" total_size="30">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.dao.mapper.AccommodationReportMapper" sourceFile="AccommodationReportMapper.java" interface="true" size="30" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.fm.service" total_bugs="0" total_types="1" total_size="3">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.service.AccommodationReportService" sourceFile="AccommodationReportService.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.fm.vo" total_bugs="30" total_types="27" total_size="1929" priority_2="30">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.BedAllocationReportVO" sourceFile="BedAllocationReportVO.java" interface="false" size="135" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.CampDetailsVO" sourceFile="CampDetailsVO.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.CampOccupancyReportVO" sourceFile="CampOccupancyReportVO.java" interface="false" size="75" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.CampScheduleDetailsVO" sourceFile="CampScheduleDetailsVO.java" interface="false" size="159" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.CampSchedulePaxDetails" sourceFile="CampSchedulePaxDetails.java" interface="false" size="52" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.CampSchedulingReportVO" sourceFile="CampSchedulingReportVO.java" interface="false" size="127" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.CompanyDeatilsVO" sourceFile="CompanyDeatilsVO.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.DailyArrivalReportVO" sourceFile="DailyArrivalReportVO.java" interface="false" size="117" bugs="2" priority_2="2"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.DailyDepartureReportVO" sourceFile="DailyDepartureReportVO.java" interface="false" size="117" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.DailyHouseKeepingReportVO" sourceFile="DailyHouseKeepingReportVO.java" interface="false" size="87" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.DataDetailsVO" sourceFile="DataDetailsVO.java" interface="false" size="59" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.DateVO" sourceFile="DateVO.java" interface="false" size="57" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.DefaultBedAssignmentReportVO" sourceFile="DefaultBedAssignmentReportVO.java" interface="false" size="93" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.DoorTagReportVO" sourceFile="DoorTagReportVO.java" interface="false" size="153" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.ForecastReportVO" sourceFile="ForecastReportVO.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.GuestListReportVO" sourceFile="GuestListReportVO.java" interface="false" size="117" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.LegendDetailsVO" sourceFile="LegendDetailsVO.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.LocationDetails" sourceFile="LocationDetails.java" interface="false" size="52" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.MonthVO" sourceFile="MonthVO.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.NonOperationalStatusRptVO" sourceFile="NonOperationalStatusRptVO.java" interface="false" size="45" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.PersonnelAccommodationHistoryReportVO" sourceFile="PersonnelAccommodationHistoryReportVO.java" interface="false" size="81" bugs="4" priority_2="4"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.ResidentForecastReportVO" sourceFile="ResidentForecastReportVO.java" interface="false" size="57" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.ResidentSummaryReportVO" sourceFile="ResidentSummaryReportVO.java" interface="false" size="51" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.StaffNatureVO" sourceFile="StaffNatureVO.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.StatusTotalsVO" sourceFile="StatusTotalsVO.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.SummaryReportVO" sourceFile="SummaryReportVO.java" interface="false" size="33" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.vo.TeamAssignmentReportVO" sourceFile="TeamAssignmentReportVO.java" interface="false" size="87" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.fm.web.controller" total_bugs="38" total_types="1" total_size="4218" priority_2="28" priority_1="10">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.web.controller.AccommodationReportController" sourceFile="AccommodationReportController.java" interface="false" size="4218" bugs="38" priority_2="28" priority_1="10"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.fm.web.model" total_bugs="25" total_types="2" total_size="355" priority_2="25">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.web.model.AccommodationReportModelVO" sourceFile="AccommodationReportModelVO.java" interface="false" size="333" bugs="25" priority_2="25"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.fm.web.model.AccommodationReportWidgetModel" sourceFile="AccommodationReportWidgetModel.java" interface="false" size="22" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.ibsplc.ilogisticsneo.reports.formatter" total_bugs="1" total_types="5" total_size="167" priority_2="1">
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.formatter.BorderFormatter" sourceFile="BorderFormatter.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.formatter.ReservationLegendFormatter" sourceFile="ReservationLegendFormatter.java" interface="false" size="49" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.formatter.RotatorFormatter" sourceFile="RotatorFormatter.java" interface="false" size="27" bugs="0"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.formatter.StatusFormatter" sourceFile="StatusFormatter.java" interface="false" size="65" bugs="1" priority_2="1"/>
+      <ClassStats class="com.ibsplc.ilogisticsneo.reports.formatter.TitleFormatter" sourceFile="TitleFormatter.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="1870" invocations="4772" avgMicrosecondsPerInvocation="391" maxMicrosecondsPerInvocation="300179" standardDeviationMircosecondsPerInvocation="5981"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="1641" invocations="4743" avgMicrosecondsPerInvocation="346" maxMicrosecondsPerInvocation="137766" standardDeviationMircosecondsPerInvocation="2997"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="1637" invocations="4729" avgMicrosecondsPerInvocation="346" maxMicrosecondsPerInvocation="366695" standardDeviationMircosecondsPerInvocation="5509"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="1372" invocations="4743" avgMicrosecondsPerInvocation="289" maxMicrosecondsPerInvocation="164500" standardDeviationMircosecondsPerInvocation="2751"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="1086" invocations="4752" avgMicrosecondsPerInvocation="228" maxMicrosecondsPerInvocation="83087" standardDeviationMircosecondsPerInvocation="1873"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="825" invocations="1242" avgMicrosecondsPerInvocation="664" maxMicrosecondsPerInvocation="92060" standardDeviationMircosecondsPerInvocation="3366"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="506" invocations="4744" avgMicrosecondsPerInvocation="106" maxMicrosecondsPerInvocation="50148" standardDeviationMircosecondsPerInvocation="872"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="462" invocations="4743" avgMicrosecondsPerInvocation="97" maxMicrosecondsPerInvocation="39493" standardDeviationMircosecondsPerInvocation="900"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="336" invocations="1295" avgMicrosecondsPerInvocation="259" maxMicrosecondsPerInvocation="39411" standardDeviationMircosecondsPerInvocation="1362"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindHEmismatch" totalMilliseconds="275" invocations="391" avgMicrosecondsPerInvocation="704" maxMicrosecondsPerInvocation="128537" standardDeviationMircosecondsPerInvocation="6668"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindDeadLocalStores" totalMilliseconds="275" invocations="391" avgMicrosecondsPerInvocation="703" maxMicrosecondsPerInvocation="145008" standardDeviationMircosecondsPerInvocation="7448"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="273" invocations="466" avgMicrosecondsPerInvocation="586" maxMicrosecondsPerInvocation="55204" standardDeviationMircosecondsPerInvocation="2941"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="222" invocations="391" avgMicrosecondsPerInvocation="568" maxMicrosecondsPerInvocation="13296" standardDeviationMircosecondsPerInvocation="1253"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="218" invocations="5195" avgMicrosecondsPerInvocation="41" maxMicrosecondsPerInvocation="7152" standardDeviationMircosecondsPerInvocation="186"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref$CheckCallSitesAndReturnInstructions" totalMilliseconds="214" invocations="4729" avgMicrosecondsPerInvocation="45" maxMicrosecondsPerInvocation="21348" standardDeviationMircosecondsPerInvocation="339"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="206" invocations="391" avgMicrosecondsPerInvocation="527" maxMicrosecondsPerInvocation="44787" standardDeviationMircosecondsPerInvocation="2844"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="201" invocations="391" avgMicrosecondsPerInvocation="516" maxMicrosecondsPerInvocation="82005" standardDeviationMircosecondsPerInvocation="4990"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.URLProblems" totalMilliseconds="187" invocations="391" avgMicrosecondsPerInvocation="479" maxMicrosecondsPerInvocation="35123" standardDeviationMircosecondsPerInvocation="2697"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DefaultEncodingDetector" totalMilliseconds="186" invocations="391" avgMicrosecondsPerInvocation="477" maxMicrosecondsPerInvocation="49195" standardDeviationMircosecondsPerInvocation="2810"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="185" invocations="466" avgMicrosecondsPerInvocation="398" maxMicrosecondsPerInvocation="24285" standardDeviationMircosecondsPerInvocation="1448"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantPoolGenFactory" totalMilliseconds="176" invocations="391" avgMicrosecondsPerInvocation="450" maxMicrosecondsPerInvocation="127878" standardDeviationMircosecondsPerInvocation="6500"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindReturnRef" totalMilliseconds="174" invocations="391" avgMicrosecondsPerInvocation="447" maxMicrosecondsPerInvocation="21065" standardDeviationMircosecondsPerInvocation="1619"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="171" invocations="4730" avgMicrosecondsPerInvocation="36" maxMicrosecondsPerInvocation="9008" standardDeviationMircosecondsPerInvocation="194"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="168" invocations="391" avgMicrosecondsPerInvocation="430" maxMicrosecondsPerInvocation="27486" standardDeviationMircosecondsPerInvocation="1688"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="163" invocations="391" avgMicrosecondsPerInvocation="417" maxMicrosecondsPerInvocation="27425" standardDeviationMircosecondsPerInvocation="1850"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.VolatileUsage" totalMilliseconds="146" invocations="391" avgMicrosecondsPerInvocation="375" maxMicrosecondsPerInvocation="124961" standardDeviationMircosecondsPerInvocation="6312"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindEmptySynchronizedBlock" totalMilliseconds="140" invocations="391" avgMicrosecondsPerInvocation="358" maxMicrosecondsPerInvocation="119616" standardDeviationMircosecondsPerInvocation="6042"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="138" invocations="466" avgMicrosecondsPerInvocation="298" maxMicrosecondsPerInvocation="17312" standardDeviationMircosecondsPerInvocation="1082"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="137" invocations="5600" avgMicrosecondsPerInvocation="24" maxMicrosecondsPerInvocation="44347" standardDeviationMircosecondsPerInvocation="593"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="136" invocations="59617" avgMicrosecondsPerInvocation="2" maxMicrosecondsPerInvocation="1903" standardDeviationMircosecondsPerInvocation="12"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindSelfComparison" totalMilliseconds="133" invocations="391" avgMicrosecondsPerInvocation="342" maxMicrosecondsPerInvocation="32093" standardDeviationMircosecondsPerInvocation="1894"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="132" invocations="466" avgMicrosecondsPerInvocation="283" maxMicrosecondsPerInvocation="70226" standardDeviationMircosecondsPerInvocation="3264"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SynchronizationOnSharedBuiltinConstant" totalMilliseconds="128" invocations="391" avgMicrosecondsPerInvocation="327" maxMicrosecondsPerInvocation="21990" standardDeviationMircosecondsPerInvocation="1637"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindBadCast2" totalMilliseconds="127" invocations="391" avgMicrosecondsPerInvocation="326" maxMicrosecondsPerInvocation="55369" standardDeviationMircosecondsPerInvocation="2948"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="125" invocations="1300" avgMicrosecondsPerInvocation="96" maxMicrosecondsPerInvocation="4650" standardDeviationMircosecondsPerInvocation="184"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindFieldSelfAssignment" totalMilliseconds="123" invocations="391" avgMicrosecondsPerInvocation="314" maxMicrosecondsPerInvocation="21698" standardDeviationMircosecondsPerInvocation="1586"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LostLoggerDueToWeakReference" totalMilliseconds="121" invocations="391" avgMicrosecondsPerInvocation="311" maxMicrosecondsPerInvocation="22998" standardDeviationMircosecondsPerInvocation="1584"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SwitchFallthrough" totalMilliseconds="119" invocations="391" avgMicrosecondsPerInvocation="304" maxMicrosecondsPerInvocation="25063" standardDeviationMircosecondsPerInvocation="1451"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref" totalMilliseconds="118" invocations="391" avgMicrosecondsPerInvocation="303" maxMicrosecondsPerInvocation="4132" standardDeviationMircosecondsPerInvocation="476"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
