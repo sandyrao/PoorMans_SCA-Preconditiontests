@@ -20,6 +20,6 @@ Refer link to setup "Require JUnit run, Precondition"<br/>
 
 Thanks to..
 -----------
-![Structure101] (http://structure101.com/images/s101_170.png)  
+<a href="http://structure101.com">![Structure101](http://structure101.com/images/s101_170.png)</a>
 Special Thanks to Structure101 for lending a copy of their Architecture Development Environment to build my project.  
 Find more info on Structure101 at <http://structure101.com>  
